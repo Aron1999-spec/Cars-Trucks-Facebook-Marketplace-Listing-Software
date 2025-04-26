@@ -5,7 +5,6 @@ This tool helps you automatically list cars and trucks on Facebook Marketplace â
 ðŸ”§ How It Works
 
 Upload a car or truck listing
-
 The bot:
 Posts it to Facebook Marketplace using your browser session
 Saves it to a database for future reuse
